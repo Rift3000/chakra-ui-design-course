@@ -6,6 +6,16 @@ Course on Egghead
 ![Next](https://img.shields.io/badge/-Next-lightGreen?style=for-the-badge&logo=next.js)
 ![Chakra](https://img.shields.io/badge/-Chakra-purple?style=for-the-badge&logo=chakra-ui)
 
+<br/>
+
+## Screenshot
+
+<p float="left">
+  <img src="course.jpg" width="250">
+  &nbsp;&nbsp;
+  <img src="course-light.jpg" width="250">
+</p>
+
 
 ## Getting Started
 
