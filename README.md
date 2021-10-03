@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chakra-UI Design Course
+Course on Egghead
+
+
+![ReactJS](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/-Next-lightGreen?style=for-the-badge&logo=next.js)
+![Chakra](https://img.shields.io/badge/-Chakra-purple?style=for-the-badge&logo=chakra-ui)
+
 
 ## Getting Started
 
